@@ -1,5 +1,10 @@
 {
   "itemGroup.InvisaJail": "Invisible Jail",
   "item.ij.ruby": "Ruby",
-  "block.ij.ruby_block": "Ruby Block"
+  "block.ij.ruby_block": "Ruby Block",
+  "item.ij.ruby_sword": "Ruby Sword",
+  "item.ij.ruby_pickaxe": "Ruby Pickaxe",
+  "item.ij.ruby_shovel": "Ruby Shovel",
+  "item.ij.ruby_axe": "Ruby Axe",
+  "item.ij.ruby_hoe": "Ruby Hoe"
 }
